@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="App1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock HorizontalAlignment="Left" Margin="491,85,0,0" TextWrapping="Wrap" Text="Welcome to app " VerticalAlignment="Top" Height="95" Width="363" FontSize="24"/>
+        <TextBox HorizontalAlignment="Left" Margin="329,267,0,0" TextWrapping="Wrap" Text="Username" Name="username" VerticalAlignment="Top" FontSize="24"/>
+        <TextBox HorizontalAlignment="Left" Margin="337,345,0,0" TextWrapping="Wrap"  Text="Password" Name="password" VerticalAlignment="Top" FontSize="24"/>
+        <Button x:ConnectionId='1' x:Name="signup" Content="Sign up" HorizontalAlignment="Left" Margin="334,442,0,0" VerticalAlignment="Top" Width="138"                     />
+        <TextBlock Name="responseText" HorizontalAlignment="Left" Margin="537,746,0,-73" TextWrapping="Wrap" Text="Response will be stored here " VerticalAlignment="Top" Height="95" Width="363" FontSize="24"/>
+        <Button x:ConnectionId='2' x:Name="signin" Content="Sign In" HorizontalAlignment="Left" Margin="334,519,0,0" VerticalAlignment="Top" Width="138"                     />
+
+    </Grid>
+</Page>
+

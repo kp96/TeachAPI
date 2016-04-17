@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-JA9HAV5</Machine>
+    <WindowsUser>Krishna</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>18ce94ae-87a0-4c21-8bd6-e49f836ee980</PackageIdentityName>
+    <RegisteredManifestChecksum>CBB0DC33630B8CFAD44FCC1F1F02B58C9C5E04D2CCE7FA9DC176B1B2F8DF4E53</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>18ce94ae-87a0-4c21-8bd6-e49f836ee980_1.0.0.0_neutral__qvd5rt9702qr8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>18ce94ae-87a0-4c21-8bd6-e49f836ee980_qvd5rt9702qr8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>18ce94ae-87a0-4c21-8bd6-e49f836ee980</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Krishna</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Krishna\Documents\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-17T08:45:32.552</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Krishna\Documents\App1\bin\Debug\App1.exe">
+      <PackagePath>App1.exe</PackagePath>
+      <Modified>2016-04-17T08:52:11.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Krishna\Documents\App1\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Krishna\Documents\App1\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Krishna\Documents\App1\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Krishna\Documents\App1\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Krishna\Documents\App1\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-04-17T08:22:14.644</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Krishna\Documents\App1\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-04-17T08:52:11.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Krishna\Documents\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-17T08:45:32.419</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
